@@ -1,0 +1,4 @@
+SOJA,Reggae,6,1
+Plata e Raiz,Reggae,5,1
+Pedra Leticia,Rock,4,5
+Eric Clapton,Rock,1,2
